@@ -1,0 +1,10 @@
+bin/ 
+build/
+target/
+*.class
+*.war
+.metadata/
+.remoteSystemTempFiles/
+*.tmp
+*.log
+lib/
